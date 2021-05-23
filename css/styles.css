@@ -1,0 +1,25 @@
+p{
+	background-color: gray;
+	color: black;
+	font-size: 200%;
+	text-align: center;
+	display: block;
+	margin: auto;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+#photo{
+	border: 0.2px solid white;
+	width: 1400px;
+	height: 600px;
+	margin: auto;
+	display: block;
+}
+
+#photo1{
+	border: 0.2px solid white;
+	width: 1400px;
+	height: 750px;
+	margin: auto;
+	display: block;
+}
